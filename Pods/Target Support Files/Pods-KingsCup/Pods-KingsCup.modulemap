@@ -1,0 +1,6 @@
+framework module Pods_KingsCup {
+  umbrella header "Pods-KingsCup-umbrella.h"
+
+  export *
+  module * { export * }
+}
